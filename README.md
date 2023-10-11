@@ -22,6 +22,6 @@ Ao criar um jogo, é possível adquirir uma compreensão mais profunda da lógic
 O projeto permite a aplicação prática de conceitos teóricos aprendidos em cursos de algoritmos, estruturas de dados e programação.
 
 ## Objetivo
-O principal objetivo do nosso projeto é aplicar os conhecimentos adquiridos nas aulas de Programação e Desenvolvimento de Software II (PDS II) para criar um programa interativo e divertido, por isso optamos por desenvolver o jogo Batalha Naval, que, incluse, de ser expandido futuramente para incluir funcionalidades avançadas, como inteligência artificial para oponentes controlados pelo computador, proporcionando uma oportunidade para aprimoramento contínuo e inovação.
+O principal objetivo do nosso projeto é aplicar os conhecimentos adquiridos nas aulas de Programação e Desenvolvimento de Software II (PDS II) para criar um programa interativo e divertido, por isso optamos por desenvolver o jogo Batalha Naval, que, incluse, pode ser expandido futuramente para incluir funcionalidades avançadas, como inteligência artificial para oponentes controlados pelo computador, proporcionando uma oportunidade para aprimoramento contínuo e inovação.
 
 
